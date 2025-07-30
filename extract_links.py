@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     url = args.url
-    output_file = args.output_file
+    output_file = f".outputs/{args.output_file}"
 
     links = get_all_website_links(url)
 

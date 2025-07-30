@@ -1,8 +1,0 @@
-https://developers.fluentsupport.com
-https://developers.fluentsupport.com/database
-https://developers.fluentsupport.com/get-started
-https://developers.fluentsupport.com/helpers
-https://developers.fluentsupport.com/hooks/actions
-https://developers.fluentsupport.com/hooks/filters
-https://developers.fluentsupport.com/modules/custom_widget.html
-https://developers.fluentsupport.com/utility-functions
